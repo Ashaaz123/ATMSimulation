@@ -1,4 +1,4 @@
-# ATMSimulation# 🏧 ATM Simulation System
+# 🏧 ATM Simulation System
 
 A simple yet powerful **Java-based ATM Simulation System** that demonstrates the concepts of **Object-Oriented Programming (OOP), Exception Handling, User Authentication, and Banking Transactions** in a real-world scenario.
 
@@ -196,12 +196,13 @@ By completing this project, learners will understand:
 
 ## ⭐ Project Highlights
 
-✔ Real-world Banking Simulation
-✔ Custom Exception Handling
-✔ Secure PIN Authentication
-✔ Object-Oriented Design
-✔ Beginner-Friendly Java Project
-✔ Strong Foundation for Advanced Banking Applications
+* ✔ Real-world Banking Simulation
+* ✔ Custom Exception Handling
+* ✔ Secure PIN Authentication
+* ✔ Object-Oriented Design
+* ✔ Beginner-Friendly Java Project
+* ✔ Strong Foundation for Advanced Banking Applications
+
 
 ---
 
